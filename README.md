@@ -4,8 +4,8 @@
 
 Top 10 high-crime areas with heatmaps, trends, and seasonal charts. Built with Python, Folium, Pandas.
 
-### Quick links
-- [Jupyter Notebook](notebooks/my_analysis.ipynb)
-
 > Updated: November 2025# 
+
+
+
 
